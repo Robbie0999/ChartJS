@@ -1,0 +1,11 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+canvas{
+    position: relative;
+    margin: auto;
+    height: 80vh;
+    width: 40vw;
+}
+
